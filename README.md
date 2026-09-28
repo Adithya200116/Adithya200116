@@ -231,3 +231,33 @@ An ML project exploring text/data classification to identify potentially mislead
 <br>
 
 ---
+<div align="center">
+
+# ⚡ GitHub Activity
+
+### Building, experimenting and improving — one commit at a time.
+
+<br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Adithya200116&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya200116&layout=compact&hide_border=true&theme=transparent"
+  height="165"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya200116&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+/>
+
+</div>
+
+<br>
+
+---
