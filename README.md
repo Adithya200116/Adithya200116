@@ -62,3 +62,114 @@ It was designed around real operational problems such as **priority orders missi
 ---
 
 ### ↓ More of my work below ↓
+<br>
+
+<div align="center">
+
+# ✦ Selected Work
+
+### Different problems. Different technologies. One focus — building things that work.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 Cricket AI
+
+**AI-powered cricket analytics & prediction platform**
+
+Built to explore how machine learning can transform cricket data into predictions and actionable insights.
+
+**Focus:**  
+`Machine Learning` `XGBoost` `Python` `Streamlit`
+
+<br>
+
+<a href="https://github.com/Adithya200116/Cricket_AI">
+  <b>Explore Project →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Smart Expense Tracker
+
+**Personal finance intelligence through data**
+
+A Python-based application focused on tracking expenses and turning transaction data into understandable financial information.
+
+**Focus:**  
+`Python` `Data Analytics` `Visualization`
+
+<br>
+
+<a href="https://github.com/Adithya200116/Smart-Expense-Tracker">
+  <b>Explore Project →</b>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Women Safety
+
+**Technology built around a real-world safety problem**
+
+A project exploring how software can be used to support safety-focused functionality and practical real-world use cases.
+
+**Focus:**  
+`Python` `Application Development` `Problem Solving`
+
+<br>
+
+<a href="https://github.com/Adithya200116/Women-Safety">
+  <b>Explore Project →</b>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📰 Fake News Detection
+
+**Machine learning for information classification**
+
+An ML project exploring text/data classification to identify potentially misleading or unreliable information.
+
+**Focus:**  
+`Python` `Machine Learning` `Classification`
+
+<br>
+
+<a href="https://github.com/Adithya200116/Fake-news-detection">
+  <b>Explore Project →</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### More experiments & builds
+
+<a href="https://github.com/Adithya200116/LSTM-Price-Predictor">📈 LSTM Price Predictor</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Adithya200116/AI_ROUTE_FINDER">🧭 AI Route Finder</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Adithya200116/cricket-analytics-chatbot">💬 Cricket Analytics Chatbot</a>
+
+</div>
+
+<br>
+
+---
