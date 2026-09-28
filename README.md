@@ -175,7 +175,9 @@ An ML project exploring text/data classification to identify potentially mislead
 ---
 <div align="center">
 
-# < THE TOOLKIT />
+# 🧰 Technical Toolkit
+
+### Data • AI • Engineering
 
 ### Technologies I use to move from data → intelligence → product.
 
