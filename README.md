@@ -173,3 +173,61 @@ An ML project exploring text/data classification to identify potentially mislead
 <br>
 
 ---
+<div align="center">
+
+# < THE TOOLKIT />
+
+### Technologies I use to move from data → intelligence → product.
+
+<br>
+
+### 📊 DATA & BUSINESS INTELLIGENCE
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<br><br>
+
+`Power BI` &nbsp; • &nbsp; `SQL` &nbsp; • &nbsp; `Excel` &nbsp; • &nbsp; `Tableau`
+&nbsp; • &nbsp; `Data Modeling` &nbsp; • &nbsp; `ETL`
+
+<br><br>
+
+### 🧠 AI & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+<br><br>
+
+`Machine Learning` &nbsp; • &nbsp; `XGBoost` &nbsp; • &nbsp; `Generative AI`
+&nbsp; • &nbsp; `RAG` &nbsp; • &nbsp; `FAISS` &nbsp; • &nbsp; `LLMs`
+
+<br><br>
+
+### ⚡ ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,fastapi,git,github,vscode" />
+
+<br><br>
+
+`React` &nbsp; • &nbsp; `FastAPI` &nbsp; • &nbsp; `REST APIs`
+&nbsp; • &nbsp; `SQLAlchemy` &nbsp; • &nbsp; `Git`
+
+<br><br>
+
+### 🔬 HOW I LIKE TO WORK
+
+**Understand the problem**
+&nbsp; → &nbsp;
+**Explore the data**
+&nbsp; → &nbsp;
+**Build**
+&nbsp; → &nbsp;
+**Test**
+&nbsp; → &nbsp;
+**Measure**
+&nbsp; → &nbsp;
+**Improve**
+
+</div>
+
+<br>
+
+---
