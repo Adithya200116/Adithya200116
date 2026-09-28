@@ -239,22 +239,21 @@ An ML project exploring text/data classification to identify potentially mislead
 
 <br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Adithya200116&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya200116&layout=compact&hide_border=true&theme=transparent"
-  height="165"
-/>
+<a href="https://github.com/Adithya200116">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adithya200116&theme=github_dark" width="95%" />
+</a>
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya200116&theme=github-compact&hide_border=true&area=true"
-  width="95%"
-/>
+<a href="https://github.com/Adithya200116">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adithya200116&theme=github_dark" height="170" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Adithya200116">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adithya200116&theme=github_dark" height="170" />
+</a>
 
 </div>
 
