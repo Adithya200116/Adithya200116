@@ -261,3 +261,41 @@ An ML project exploring text/data classification to identify potentially mislead
 <br>
 
 ---
+<div align="center">
+
+# 🤝 Let's Connect
+
+### Have a data problem, an AI idea, or something worth building?
+
+I'm interested in opportunities across  
+**Data Analytics • Data Science • AI/ML • Software Engineering**
+
+<br>
+
+<a href="mailto:adithyamkaushik2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href=" linkedin.com/in/adithya-m-kaushik">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Adithya200116">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+> **Open to opportunities where data, AI and engineering come together to solve real problems.**
+
+<br>
+
+### Thanks for stopping by 👋
+
+<sub>Build things that are useful. Measure what matters. Keep improving.</sub>
+
+</div>
