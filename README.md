@@ -89,9 +89,7 @@ Built to explore how machine learning can transform cricket data into prediction
 
 <br>
 
-<a href="https://github.com/Adithya200116/Cricket_AI">
-  <b>Explore Project →</b>
-</a>
+<a href="https://github.com/Adithya200116/Cricket_AI-"><b>Explore Project →</b></a>
 
 </td>
 
